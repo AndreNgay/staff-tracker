@@ -1,0 +1,32 @@
+{
+  "staff": [
+    {
+      "Name": "Hina",
+      "Department": "Kitchen",
+      "Position": "cleaner",
+      "Salary": "5",
+      "id": 2
+    },
+    {
+      "Name": "Tiven",
+      "Department": "Human Resource",
+      "Position": "cleaner",
+      "Salary": "5",
+      "id": 3
+    },
+    {
+      "Name": "AS",
+      "Department": "ASAS",
+      "Position": "ASC",
+      "Salary": "12",
+      "id": 4
+    },
+    {
+      "Name": "John ",
+      "Department": "SI",
+      "Position": "PASC",
+      "Salary": "15",
+      "id": 5
+    }
+  ]
+}
